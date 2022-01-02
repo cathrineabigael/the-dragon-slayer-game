@@ -1,0 +1,47 @@
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.exe.config
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.exe
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.pdb
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csprojAssemblyReference.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.ResolveComReference.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.Form1.resources
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.Properties.Resources.resources
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.GenerateResource.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.CoreCompileInputs.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.exe
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.pdb
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\BirdDie.wav
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\DragonGotHit.wav
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\Music.mp3
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\Shoot.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\BirdDie.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\DragonGotHit.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\Music.mp3
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\Shoot.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.exe.config
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.exe
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.pdb
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.Form1.resources
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.Properties.Resources.resources
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.exe
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.pdb
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\BirdDie.wav
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\DragonGotHit.wav
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\Music.mp3
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Resources\Shoot.wav
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.exe.config
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.exe
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Debug\Cathrine_TheDragonSlayerGame.pdb
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csprojAssemblyReference.cache
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Interop.WMPLib.dll
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.ResolveComReference.cache
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.Form1.resources
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.Properties.Resources.resources
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.GenerateResource.cache
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.csproj.CoreCompileInputs.cache
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.exe
+D:\Cathrine_SIB '19\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8B\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Debug\Cathrine_TheDragonSlayerGame.pdb

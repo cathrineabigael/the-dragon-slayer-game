@@ -1,0 +1,16 @@
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Resources\BirdDie.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Resources\DragonGotHit.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Resources\Music.mp3
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Resources\Shoot.wav
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Cathrine_TheDragonSlayerGame.exe.config
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Cathrine_TheDragonSlayerGame.exe
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\bin\Release\Cathrine_TheDragonSlayerGame.pdb
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.Form1.resources
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.Properties.Resources.resources
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.exe
+C:\Users\HP\Downloads\Cathrine_TheDragonSlayerGame\Cathrine_TheDragonSlayerGame\obj\Release\Cathrine_TheDragonSlayerGame.pdb
